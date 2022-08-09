@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Zabir Raihan",
+      "email": "zabir@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "emu",
+      "email": "emu@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "alex",
+      "email": "alex@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "zabir",
+      "email": "zabir@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "daniel",
+      "email": "daniel@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "daniel",
+      "email": "daniel@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ],
+  "resturant": [
+    {
+      "name": "Burger king",
+      "contact": "12222",
+      "address": "New Work",
+      "id": 1
+    },
+    {
+      "id": 4,
+      "name": "Nobab",
+      "contact": "143442",
+      "address": "chattogram"
+    },
+    {
+      "name": "Daba",
+      "contact": 123456,
+      "address": "chattogram",
+      "id": 5
+    },
+    {
+      "name": "Magni sit odio labor",
+      "contact": "Quidem atque odit ve",
+      "address": "Quod tenetur numquam",
+      "id": 6
+    }
+  ]
+}
